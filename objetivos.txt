@@ -1,0 +1,3 @@
+Mi objetivo en este master es poder aprender los conocimentos aportados sobre Front-End y Back-End. Poder tener una base completa en el desarrollo web. No solo para lo que está focalizado el master, el desarrollo de paginas web, sinó también encontrar puntos de sinergia dentro de otros ambitos, en mi caso el IoT. 
+
+A su vez, y no menos importante, la propia satisfacción de aprender a programar aplicaciones, y tomar un rumbo profesional en un sector del que disfruto trabajando :).
