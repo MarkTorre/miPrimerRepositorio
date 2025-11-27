@@ -2,3 +2,5 @@ Conocimientos en leguaje C. Programación de microcontroladores.
 
 Conocimientos de Bash. Automatización de scripts para embeddeds.
 
+Conocimientos de Python. Desarrollo de aplicaciones con PyQt, tkinter y procesamiento de datos.
+
