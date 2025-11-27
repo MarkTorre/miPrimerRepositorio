@@ -3,3 +3,5 @@ Mi objetivo en este master es poder aprender los conocimentos aportados sobre Fr
 A su vez, y no menos importante, la propia satisfacción de aprender a programar aplicaciones, y tomar un rumbo profesional en un sector del que disfruto trabajando :).
 
 Objetivo 1: Aprender HTML,CSS y javascript.
+
+Objetivo 2: Aprender frameworks basados en componentes reactivos como Angular.
