@@ -1,2 +1,4 @@
 Conocimientos en leguaje C. Programación de microcontroladores.
 
+Conocimientos de Bash. Automatización de scripts para embeddeds.
+
